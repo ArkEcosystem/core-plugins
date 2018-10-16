@@ -1,8 +1,8 @@
 # Core Plugins
 
-> Optional Plugins for https://github.com/ArkEcosystem/core
+> Deprecated Plugins for https://github.com/ArkEcosystem/core
 
-This repository contains optional plugins for Ark Core.
+This repository contains deprecated plugins for Ark Core.
 
 ## Plugins
 
@@ -12,4 +12,4 @@ This repository contains optional plugins for Ark Core.
 
 If you want to use any of the plugins from this repository you need to clone the repository and then copy the plugin you wish to use into the `plugins` directory in your https://github.com/ArkEcosystem/core directory. After you've done that you need to run `lerna bootstrap` and register the plugin in your `plugins.js` file.
 
-_If you plan to use any of those plugins keep in mind that they might be unmaintained or deprecated._
+_If you plan to use any of those plugins keep in mind that they are unmaintained and deprecated._
